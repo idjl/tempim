@@ -20,8 +20,9 @@ get传递参数
 |h  |  否  |图片高度，默认100|
 |bc |  否  |背景颜色，16进制，默认灰|
 |fc |  否  |文字颜色，16进制，默认黑|
+|n  |  否  |图片编号，数字，默认无  |
 
 #### 演示地址
 https://www.51015.cn/demo/tempim
 
-https://www.51015.cn/demo/tempim/?w=500&h=300&bc=34AADC&fc=fff
+https://www.51015.cn/demo/tempim/?w=500&h=300&bc=34AADC&fc=fff&n=5
